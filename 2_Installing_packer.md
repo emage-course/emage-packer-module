@@ -11,7 +11,6 @@ sudo yum -y install packer
 ### MAC
 
 ```
-brew tap hashicorp/tap
 brew install hashicorp/tap/packer
 ```
 
